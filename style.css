@@ -14,13 +14,11 @@ body {
     align-items: center;
     border-bottom: 25px solid yellow;
 }
-    #navbar2 {
-        height: 51px;
-        display: flex;
-        background-color: gray;
-}
-.yellow{
-    background-color: yellow;
+
+#navbar2 {
+    height: 51px;
+    display: flex;
+    background-color: gray;
 }
 .button-group button {
     margin-right: 10px;
@@ -28,4 +26,10 @@ body {
     background-color: #8d8d8d;
     color: #1d1d1d;
     cursor: pointer;
+}
+.flex{
+    display: flex;
+}
+.left{
+    nav-left: auto;
 }
